@@ -38,9 +38,9 @@ Run with: ./sim
 Possible Future Improvements:
 
 Potential extensions:
-    Support for current sources
-    Support for multiple voltage sources
-    Support for larger circuits (currently capped at 10 unknown nodes)
-    Sparse matrix optimization
-    AC analysis
-    Transient simulation
+- Support for current sources
+- Support for multiple voltage sources
+- Support for larger circuits (currently capped at 10 unknown nodes)
+- Sparse matrix optimization
+- AC analysis
+- Transient simulation
